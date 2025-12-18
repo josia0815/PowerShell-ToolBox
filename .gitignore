@@ -1,0 +1,7 @@
+logs/*.txt
+logs/*.logs*
+*.tmp
+*.bak
+*.exe
+*.zip
+*.vscode/
