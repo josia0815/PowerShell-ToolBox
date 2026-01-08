@@ -1,0 +1,111 @@
+{
+  "browsers": [
+    {
+      "name": "Brave Browser",
+      "wingetId": "Brave.Brave",
+      "category": "Browser"
+    },
+    {
+      "name": "Mozilla Firefox",
+      "wingetId": "Mozilla.Firefox",
+      "category": "Browser"
+    },
+    {
+      "name": "Google Chrome",
+      "wingetId": "Google.Chrome",
+      "category": "Browser"
+    },
+    {
+      "name": "Microsoft Edge",
+      "wingetId": "Microsoft.Edge",
+      "category": "Browser"
+    }
+  ],
+
+  "functionality": [
+        {
+      "name": "DaVinci Resolve",
+      "wingetId": "BlackmagicDesign.DaVinciResolve",
+      "category": "Functionality"
+    },
+    {
+      "name": "FileZilla Client",
+      "wingetId": "FileZilla.FileZilla.Client",
+      "category": "Functionality"
+    },
+    {
+      "name": "ShareX",
+      "wingetId": "ShareX.ShareX",
+      "category": "Functionality"
+    },
+    {
+      "name": "7-Zip",
+      "wingetId": "7zip.7zip",
+      "category": "Functionality"
+    },
+    {
+      "name": "Notepad++",
+      "wingetId": "Notepad++.Notepad++",
+      "category": "Functionality"
+    }
+  ],
+
+  "communication": [
+    {
+      "name": "WhatsApp Desktop",
+      "wingetId": "WhatsApp.WhatsApp",
+      "category": "Communication"
+    },
+    {
+      "name": "Discord",
+      "wingetId": "Discord.Discord",
+      "category": "Communication"
+    },
+    {
+      "name": "Microsoft Teams",
+      "wingetId": "Microsoft.Teams",
+      "category": "Communication"
+    }
+  ],
+
+  "media": [
+    {
+      "name": "VLC Media Player",
+      "wingetId": "VideoLAN.VLC",
+      "category": "Media"
+    },
+    {
+      "name": "Spotify",
+      "wingetId": "Spotify.Spotify",
+      "category": "Media"
+    },
+    {
+      "name": "HandBrake",
+      "wingetId": "HandBrake.HandBrake",
+      "category": "Media"
+    },
+    {
+      "name": "OBS Studio",
+      "wingetId": "OBSProject.OBSStudio",
+      "category": "Media"
+    }
+  ],
+
+  "gaming": [
+    {
+      "name": "Steam",
+      "wingetId": "Valve.Steam",
+      "category": "Gaming"
+    },
+    {
+      "name": "Epic Games Launcher",
+      "wingetId": "EpicGames.EpicGamesLauncher",
+      "category": "Gaming"
+    },
+    {
+      "name": "GOG Galaxy",
+      "wingetId": "GOG.Galaxy",
+      "category": "Gaming"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+[2026-01-08 09:16:54] [INFO] Invoke-InstallApps gestartet.
+[2026-01-08 09:16:54] [INFO] ConfigPath: C:\Users\Josia\Documents\School\PowerShell-ToolBox\config
+[2026-01-08 09:16:54] [INFO] LogPath:    C:\Users\Josia\Documents\School\PowerShell-ToolBox\logs
+[2026-01-08 09:16:54] [INFO] IncludeGroups: <none>
+[2026-01-08 09:16:54] [INFO] ExcludeGroups: <none>
+[2026-01-08 09:16:54] [INFO] UpgradeIfInstalled: False
+[2026-01-08 09:16:54] [INFO] Apps geplant: 19
+[2026-01-08 09:17:01] [INFO] SKIP: Brave Browser (bereits installiert)
+[2026-01-08 09:17:16] [INFO] WHATIF/CONFIRM: Übersprungen: Install Google Chrome [Google.Chrome]
+[2026-01-08 09:17:18] [INFO] SKIP: Microsoft Edge (bereits installiert)
+[2026-01-08 09:17:21] [INFO] WHATIF/CONFIRM: Übersprungen: Install Mozilla Firefox [Mozilla.Firefox]
